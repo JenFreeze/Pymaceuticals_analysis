@@ -7,13 +7,13 @@ Module 5 Challenge - Matplotlib &amp; Statistics
 
     The study covered 249 mice and measured their tumor volume over 45 days to determine the most promising treatment regimen.
 
-        In this challenge, we first prepared the data by putting it into a dataframe, checking for duplicates, and cleaning the data.
+    In this challenge, we first prepared the data by putting it into a dataframe, checking for duplicates, and cleaning the data.
 
-        Then we generated some summary statistics to determine a subset of the most promising treatments, including the mean, median, variance, standard deviation, and SEM for each drug treatment.
+    Then we generated some summary statistics to determine a subset of the most promising treatments, including the mean, median, variance, standard deviation, and SEM for each drug treatment.
 
-        We then took a subset of the treatments and further analyzed by creating bar and pie charts, boxplots, and scatter plots and calculated quartiles and outlers for each drug.
+    We then took a subset of the treatments and further analyzed by creating bar and pie charts, boxplots, and scatter plots and calculated quartiles and outlers for each drug.
 
-# Conculsions
+# Conclusions
 
 * Based on this dataset, we can draw multiple conclusions on the most promising treatments. 
 
